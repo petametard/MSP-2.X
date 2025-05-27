@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "2963aadf-7215-3571-8ed6-d8e3745f83f0",
+    "name": "iPetameta",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

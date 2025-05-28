@@ -726,3 +726,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 04:53:54.765] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22796, l='ServerLevel[world]', x=-593.50, y=52.00, z=1553.50]
 [28May2025 05:00:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [iPetameta] hola
 [28May2025 05:00:44.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iPetameta> hola
+[28May2025 05:02:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iPetameta: Saved the game]
+[28May2025 05:02:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iPetameta: Stopping the server]
+[28May2025 05:02:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28May2025 05:02:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28May2025 05:02:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28May2025 05:02:53.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28May2025 05:02:54.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28May2025 05:02:54.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28May2025 05:02:54.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28May2025 05:02:54.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28May2025 05:02:54.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28May2025 05:02:54.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28May2025 05:02:54.392] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

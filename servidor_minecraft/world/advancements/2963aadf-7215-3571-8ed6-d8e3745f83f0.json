@@ -1,104 +1,7 @@
 {
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-05-27 03:44:44 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2025-05-27 03:45:44 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2025-05-27 03:45:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-05-27 03:44:44 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
-    "criteria": {
-      "ghostly_pickaxe": "2025-05-27 03:45:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-05-27 03:58:35 +0000",
-      "minecraft:drowned": "2025-05-27 03:44:44 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/fish_bones": {
-    "criteria": {
-      "sopa_de_macaco": "2025-05-27 03:44:52 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2025-05-27 03:52:48 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-05-27 03:51:55 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-27 03:37:05 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_inflicted": {
-    "criteria": {
-      "bleeding_applied": "2025-05-27 03:46:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-05-27 03:44:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/transmutation_table": {
-    "criteria": {
-      "sopa_de_macaco": "2025-05-27 03:40:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-05-27 03:54:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-05-27 03:54:02 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/dimensional_carver": {
-    "criteria": {
-      "dimensional_carver": "2025-05-27 03:56:59 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-05-27 03:39:54 +0000"
     },
     "done": true
   },
@@ -108,59 +11,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:drowned": "2025-05-27 03:44:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:deep_ocean": "2025-05-27 03:59:17 +0000",
-      "minecraft:beach": "2025-05-27 03:41:14 +0000",
-      "minecraft:lukewarm_ocean": "2025-05-27 03:42:04 +0000",
-      "minecraft:river": "2025-05-27 03:41:13 +0000",
-      "minecraft:stony_shore": "2025-05-27 03:41:17 +0000",
-      "minecraft:ocean": "2025-05-27 03:57:32 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-05-27 03:54:34 +0000",
-      "minecraft:savanna": "2025-05-27 03:37:26 +0000",
-      "minecraft:plains": "2025-05-27 03:37:07 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-27 03:39:13 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-05-27 03:37:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/void_worm_kill": {
-    "criteria": {
-      "ex": "2025-05-27 03:55:10 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-05-27 03:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-05-27 03:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-27 03:39:13 +0000"
     },
     "done": true
   },
@@ -176,15 +29,114 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-05-27 03:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-05-27 03:59:17 +0000",
+      "minecraft:bamboo_jungle": "2025-05-28 04:40:23 +0000",
+      "minecraft:savanna_plateau": "2025-05-28 04:43:03 +0000",
+      "minecraft:beach": "2025-05-27 03:41:14 +0000",
+      "minecraft:stony_peaks": "2025-05-28 04:45:09 +0000",
+      "minecraft:sparse_jungle": "2025-05-28 04:40:18 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-27 03:42:04 +0000",
+      "minecraft:river": "2025-05-27 03:41:13 +0000",
+      "minecraft:stony_shore": "2025-05-27 03:41:17 +0000",
+      "minecraft:forest": "2025-05-28 04:40:14 +0000",
+      "minecraft:ocean": "2025-05-27 03:57:32 +0000",
+      "minecraft:jungle": "2025-05-28 04:40:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-27 03:54:34 +0000",
+      "minecraft:savanna": "2025-05-27 03:37:26 +0000",
+      "minecraft:plains": "2025-05-27 03:37:07 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-27 03:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-27 03:39:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-05-27 03:39:13 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_normal": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "is_triggered": "2025-05-27 03:37:05 +0000"
+      "find_artifact": "2025-05-27 03:39:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/transmutation_table": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-27 03:40:20 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-05-27 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-27 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-27 03:58:35 +0000",
+      "minecraft:drowned": "2025-05-27 03:44:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-27 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-05-27 03:44:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-27 03:44:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-05-27 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-05-27 03:45:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-05-27 03:45:55 +0000"
     },
     "done": true
   },
@@ -194,9 +146,83 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-05-27 03:46:25 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/farseer": {
     "criteria": {
       "killed_by": "2025-05-27 03:48:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-05-27 03:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-27 03:52:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-05-27 03:52:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-27 03:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-27 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-27 03:54:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_kill": {
+    "criteria": {
+      "ex": "2025-05-27 03:55:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2025-05-27 03:56:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-05-28 04:44:24 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-05-28 04:40:47 +0000",
+      "biomeswevegone:red_rock_valley": "2025-05-28 04:45:14 +0000",
+      "biomeswevegone:lush_stacks": "2025-05-28 04:50:24 +0000",
+      "biomeswevegone:ironwood_gour": "2025-05-28 04:45:20 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-05-28 04:41:30 +0000",
+      "biomeswevegone:ebony_woods": "2025-05-28 04:40:57 +0000",
+      "biomeswevegone:howling_peaks": "2025-05-28 04:46:58 +0000",
+      "biomeswevegone:baobab_savanna": "2025-05-28 04:45:18 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:enchanted_tangle": "2025-05-28 04:40:47 +0000"
     },
     "done": true
   },

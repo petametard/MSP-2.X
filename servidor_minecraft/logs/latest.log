@@ -772,3 +772,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30May2025 01:12:20.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5513ms or 110 ticks behind
 [30May2025 01:26:09.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iPetameta lost connection: Disconnected
 [30May2025 01:26:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iPetameta left the game
+[30May2025 02:47:31.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iPetameta[/127.214.121.83:54561] logged in with entity id 6855 at (-911.595301891833, 156.0, 1517.6650457384578)
+[30May2025 02:47:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iPetameta joined the game
+[30May2025 02:47:31.817] [Server thread/INFO] [Jade/]: Syncing config to iPetameta (2963aadf-7215-3571-8ed6-d8e3745f83f0)
+[30May2025 02:51:47.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iPetameta was killed
+[30May2025 02:51:47.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iPetameta: Killed iPetameta]
+[30May2025 02:55:49.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iPetameta has made the advancement [Getting an Upgrade]

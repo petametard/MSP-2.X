@@ -14649,3 +14649,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30May2025 01:26:08.812] [Netty Epoll Server IO #4/DEBUG] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: resolves to entity EntityFly['Fly'/6675, l='ServerLevel[world]', x=-920.74, y=150.47, z=1580.34] modifiers null
 [30May2025 01:26:09.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iPetameta lost connection: Disconnected
 [30May2025 01:26:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iPetameta left the game
+[30May2025 01:27:30.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 01:27:30.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 01:32:30.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 01:32:30.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

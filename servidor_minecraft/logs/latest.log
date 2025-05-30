@@ -1031,3 +1031,19 @@ java.util.NoSuchElementException: No value present
 [30May2025 03:06:59.470] [Thread-5/WARN] [fuzs.puzzleslib.impl.config.core.ForgeConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/MSP-2.X/servidor_minecraft/config/mutantmonsters-common.toml is not correct. Correcting
 [30May2025 03:06:59.473] [Thread-5/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
 [30May2025 03:06:59.473] [Thread-5/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[30May2025 03:11:57.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30May2025 03:11:57.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[30May2025 03:12:10.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30May2025 03:12:10.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[30May2025 03:12:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30May2025 03:12:15.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30May2025 03:12:15.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30May2025 03:12:15.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30May2025 03:12:15.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30May2025 03:12:16.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30May2025 03:12:16.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30May2025 03:12:16.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30May2025 03:12:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30May2025 03:12:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30May2025 03:12:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30May2025 03:12:16.160] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

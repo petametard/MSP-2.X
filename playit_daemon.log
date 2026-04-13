@@ -1,0 +1,4 @@
+nohup: ignoring input
+./start_playit.sh: line 19: 58751 Killed                  timeout 3600 /opt/playit/agent >> "$log_file" 2>&1
+ playit...
+[Fri Apr 10 04:20:24 UTC 2026] Playit finalizado con código: 137

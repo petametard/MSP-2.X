@@ -1,0 +1,289 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-04-12 06:15:09 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-04-12 06:15:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-04-12 06:15:09 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-04-12 06:15:09 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2026-04-12 06:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2026-04-13 03:54:24 +0000",
+      "minecraft:windswept_hills": "2026-04-13 19:22:47 +0000",
+      "minecraft:beach": "2026-04-12 06:19:59 +0000",
+      "minecraft:river": "2026-04-12 06:22:11 +0000",
+      "minecraft:stony_shore": "2026-04-12 06:35:02 +0000",
+      "minecraft:snowy_plains": "2026-04-13 03:55:18 +0000",
+      "minecraft:snowy_taiga": "2026-04-13 03:56:11 +0000",
+      "minecraft:dripstone_caves": "2026-04-13 18:41:29 +0000",
+      "minecraft:grove": "2026-04-12 07:02:11 +0000",
+      "minecraft:jagged_peaks": "2026-04-12 07:02:39 +0000",
+      "minecraft:cold_ocean": "2026-04-12 06:28:35 +0000",
+      "minecraft:forest": "2026-04-12 06:15:11 +0000",
+      "minecraft:deep_cold_ocean": "2026-04-13 03:50:27 +0000",
+      "minecraft:ice_spikes": "2026-04-13 03:55:44 +0000",
+      "minecraft:ocean": "2026-04-13 03:01:44 +0000",
+      "minecraft:snowy_beach": "2026-04-13 03:51:39 +0000",
+      "minecraft:old_growth_birch_forest": "2026-04-13 03:36:15 +0000",
+      "minecraft:meadow": "2026-04-12 07:14:28 +0000",
+      "minecraft:plains": "2026-04-13 19:23:28 +0000",
+      "neapolitan:neapolitan:strawberry_fields": "2026-04-12 06:34:07 +0000"
+    },
+    "done": false
+  },
+  "aerlunerpg:worlda": {
+    "criteria": {
+      "worlda": "2026-04-12 06:15:55 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2026-04-12 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-04-12 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-04-12 06:20:43 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2026-04-12 06:22:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:sakura_grove": "2026-04-12 06:34:05 +0000",
+      "biomeswevegone:forgotten_forest": "2026-04-12 06:24:29 +0000",
+      "biomeswevegone:coconino_meadow": "2026-04-12 06:24:21 +0000",
+      "biomeswevegone:maple_taiga": "2026-04-12 06:23:57 +0000",
+      "biomeswevegone:orchard": "2026-04-13 03:40:09 +0000",
+      "biomeswevegone:prairie": "2026-04-12 06:36:12 +0000",
+      "biomeswevegone:basalt_barrera": "2026-04-13 03:37:11 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2026-04-13 03:51:49 +0000",
+      "biomeswevegone:shattered_glacier": "2026-04-13 04:17:42 +0000",
+      "biomeswevegone:allium_shrubland": "2026-04-12 06:35:00 +0000",
+      "biomeswevegone:pumpkin_valley": "2026-04-12 06:24:32 +0000",
+      "biomeswevegone:crimson_tundra": "2026-04-13 03:54:43 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2026-04-12 07:13:59 +0000",
+      "biomeswevegone:coniferous_forest": "2026-04-13 03:51:48 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:maple_taiga": "2026-04-12 06:23:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2026-04-12 06:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-04-12 06:25:07 +0000",
+      "minecraft:spider": "2026-04-12 06:29:30 +0000",
+      "minecraft:wither_skeleton": "2026-04-13 05:22:09 +0000",
+      "minecraft:husk": "2026-04-13 18:59:44 +0000",
+      "minecraft:cave_spider": "2026-04-13 05:20:41 +0000",
+      "minecraft:enderman": "2026-04-13 03:20:03 +0000",
+      "minecraft:stray": "2026-04-13 05:01:57 +0000",
+      "minecraft:zombie": "2026-04-12 06:29:36 +0000",
+      "minecraft:drowned": "2026-04-13 03:02:02 +0000",
+      "savage_and_ravage:iceologer": "2026-04-13 19:26:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2026-04-12 06:25:07 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2026-04-12 06:28:11 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2026-04-12 06:30:44 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2026-04-12 06:30:44 +0000",
+      "rottencreatures:glacial_hunter": "2026-04-13 19:53:28 +0000",
+      "rottencreatures:frostbitten": "2026-04-13 19:31:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-04-12 06:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-04-12 06:32:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-12 06:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2026-04-13 18:53:24 +0000",
+      "golden_apple": "2026-04-13 18:59:53 +0000",
+      "neapolitan:strawberries": "2026-04-13 05:02:32 +0000",
+      "cooked_porkchop": "2026-04-12 07:04:38 +0000",
+      "cooked_beef": "2026-04-12 06:46:47 +0000",
+      "mutton": "2026-04-12 07:16:44 +0000",
+      "cooked_mutton": "2026-04-12 06:40:06 +0000",
+      "cooked_cod": "2026-04-13 02:44:40 +0000",
+      "carrot": "2026-04-13 04:39:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-12 06:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-04-12 06:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-04-12 07:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-04-12 07:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-04-12 07:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-04-13 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2026-04-13 02:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-04-13 02:40:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2026-04-13 03:12:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2026-04-13 03:26:16 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2026-04-13 03:40:20 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2026-04-13 03:40:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2026-04-13 05:08:02 +0000",
+      "golden_apple": "2026-04-13 03:40:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2026-04-13 05:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-04-13 18:42:27 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2026-04-13 18:57:00 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
